@@ -1,0 +1,16 @@
+artifact_uri: file:///c:/Users/ester/OneDrive/Documentos/MIT/Eng%20de%20Machine%20Learning%20-%20MLOps/mlruns/313865605784988287/b434bb81e3504b4c9d5aa989be997d7a/artifacts
+deleted_time: 1681172683645
+end_time: 1681172353359
+entry_point_name: ''
+experiment_id: '313865605784988287'
+lifecycle_stage: deleted
+run_id: b434bb81e3504b4c9d5aa989be997d7a
+run_name: Treinamento_clf_3PT
+run_uuid: b434bb81e3504b4c9d5aa989be997d7a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1681172353094
+status: 4
+tags: []
+user_id: ester

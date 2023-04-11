@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/ester/OneDrive/Documentos/MIT/Eng%20de%20Machine%20Learning%20-%20MLOps/mlruns/935528057303534629/2b86e8b2636846ce9b06afa2b9dd14ef/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '935528057303534629'
+lifecycle_stage: active
+run_id: 2b86e8b2636846ce9b06afa2b9dd14ef
+run_name: gifted-bug-99
+run_uuid: 2b86e8b2636846ce9b06afa2b9dd14ef
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1680112838559
+status: 1
+tags: []
+user_id: ester

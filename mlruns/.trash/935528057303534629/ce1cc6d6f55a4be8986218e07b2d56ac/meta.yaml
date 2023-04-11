@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/ester/OneDrive/Documentos/MIT/Eng%20de%20Machine%20Learning%20-%20MLOps/mlruns/935528057303534629/ce1cc6d6f55a4be8986218e07b2d56ac/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '935528057303534629'
+lifecycle_stage: active
+run_id: ce1cc6d6f55a4be8986218e07b2d56ac
+run_name: legendary-bear-684
+run_uuid: ce1cc6d6f55a4be8986218e07b2d56ac
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1680110760989
+status: 1
+tags: []
+user_id: ester

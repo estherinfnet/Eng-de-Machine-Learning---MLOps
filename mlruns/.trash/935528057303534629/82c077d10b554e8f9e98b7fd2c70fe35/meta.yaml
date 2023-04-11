@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/ester/OneDrive/Documentos/MIT/Eng%20de%20Machine%20Learning%20-%20MLOps/mlruns/935528057303534629/82c077d10b554e8f9e98b7fd2c70fe35/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '935528057303534629'
+lifecycle_stage: active
+run_id: 82c077d10b554e8f9e98b7fd2c70fe35
+run_name: whimsical-midge-441
+run_uuid: 82c077d10b554e8f9e98b7fd2c70fe35
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1680112958477
+status: 1
+tags: []
+user_id: ester

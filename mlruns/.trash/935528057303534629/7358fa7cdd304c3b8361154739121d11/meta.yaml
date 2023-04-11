@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/ester/OneDrive/Documentos/MIT/Eng%20de%20Machine%20Learning%20-%20MLOps/mlruns/935528057303534629/7358fa7cdd304c3b8361154739121d11/artifacts
+end_time: 1680111999697
+entry_point_name: ''
+experiment_id: '935528057303534629'
+lifecycle_stage: active
+run_id: 7358fa7cdd304c3b8361154739121d11
+run_name: Treinamento
+run_uuid: 7358fa7cdd304c3b8361154739121d11
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1680111976144
+status: 4
+tags: []
+user_id: ester
