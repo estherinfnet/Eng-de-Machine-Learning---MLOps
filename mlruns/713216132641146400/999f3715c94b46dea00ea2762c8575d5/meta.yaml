@@ -1,0 +1,16 @@
+artifact_uri: file:///c:/Users/ester/OneDrive/Documentos/MIT/Eng%20de%20Machine%20Learning%20-%20MLOps/mlruns/713216132641146400/999f3715c94b46dea00ea2762c8575d5/artifacts
+deleted_time: 1681415191437
+end_time: 1681176658990
+entry_point_name: ''
+experiment_id: '713216132641146400'
+lifecycle_stage: deleted
+run_id: 999f3715c94b46dea00ea2762c8575d5
+run_name: PreparacaoDados_2PT
+run_uuid: 999f3715c94b46dea00ea2762c8575d5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1681176658584
+status: 3
+tags: []
+user_id: ester

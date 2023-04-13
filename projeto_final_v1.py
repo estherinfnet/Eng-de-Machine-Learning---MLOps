@@ -159,6 +159,7 @@ with mlflow.start_run(run_name='Treinamento_lr_2PT'):
     mlflow.log_param('shot type', shot_type)
 
     mlflow.log_metric('log_loss', log_loss_value_lr)
+    mlflow.log_metric('f1_score', f1_score_lr)
 
 mlflow.end_run()
 
@@ -274,16 +275,15 @@ with mlflow.start_run(run_name='Treinamento_clf_3PT'):
     # Registrando os parâmetros do modelo
     mlflow.set_tag('model', 'Classification DT')
     mlflow.set_tag('algorithm', 'PyCaret')
-    # mlflow.set_tag('random_state',random_state)
+    mlflow.set_tag('random_state',random_state)
 
-
-    # mlflow.log_metric('num_features', (data_test.shape[1]))
-    # mlflow.log_param('prop_test_size', test_size)
-    # mlflow.log_param('shot type', second_shot_type)
-    # mlflow.log_param('target', target)
+    mlflow.log_metric('num_features', (data_filtered.drop('shot_made_flag',axis=1).shape[1]))
+    mlflow.log_param('prop_test_size', test_size)
+    mlflow.log_param('shot type', second_shot_type)
 
     mlflow.log_metric('log_loss', log_loss_value_clf)
     mlflow.log_metric('f1_score', f1_score_clf)
+
 
 mlflow.end_run()
 

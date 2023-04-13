@@ -1,8 +1,9 @@
 artifact_uri: file:///c:/Users/ester/OneDrive/Documentos/MIT/Eng%20de%20Machine%20Learning%20-%20MLOps/mlruns/713216132641146400/f66ee2d323a64132bb800cacfbed4ac7/artifacts
+deleted_time: 1681415191495
 end_time: 1681172353071
 entry_point_name: ''
 experiment_id: '713216132641146400'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: f66ee2d323a64132bb800cacfbed4ac7
 run_name: Treinamento_clf_2PT
 run_uuid: f66ee2d323a64132bb800cacfbed4ac7
