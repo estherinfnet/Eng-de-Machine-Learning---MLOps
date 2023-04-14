@@ -1,6 +1,6 @@
 # Eng-de-Machine-Learning---MLOps
  
-**# Eng_ML_MIT
+# Eng_ML_MIT
 ## Final project - Eng Machine Learning 
 
 ## Goal 
@@ -116,4 +116,4 @@ game_date
 matchup
 opponent
 shot_id
-**
+
